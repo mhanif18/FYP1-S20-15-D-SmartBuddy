@@ -1,0 +1,2 @@
+Android studio is needed to run the project.
+Moreover,two android phones needed to run the video call feature.
